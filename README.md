@@ -192,13 +192,7 @@ ID NAME AGE GRADE
 
 ---
 
-## 👨‍💻Developer
 
-**Omkar Sindagi**
-GitHub:
-https://github.com/omkar-sindagi
----
-```
 
 
 
